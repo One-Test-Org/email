@@ -10737,4 +10737,21 @@ html.video-modal-active .video-modal {
     height: 100%;
 }
 
+@media (max-width: 1024px) {
+    .video-container iframe {
+        display: flex; /* Use flexbox to layout children side by side */
+        align-items: center; /* Align items vertically in the center */
+        justify-content: start; /* Align items to the start of the container */
+        gap: 20px; /* Optional: adds some space between the <p> tag and the iframe */
+        width: 400px;
+        height: 225px;
+        }
+        
+        
+        .p {
+            margin: 10px; /* Reset margin */
+            padding: 10px; /* Reset padding */
+            /* Adjust width, or remove width and height properties to allow content to dictate size */
+    }
+}
 /*# sourceMappingURL=/assets/source-maps/style.scss.map */
