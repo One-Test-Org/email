@@ -10761,7 +10761,7 @@ html.video-modal-active .video-modal {
     --avatar-count: 10;
     --avatar-size: 100px;
   
-    --column-size: calc(var(--avatar-size) / 2);
+    --column-size: calc(var(--avatar-size) / 1.5);
   
     display: grid;
     grid-template-columns: repeat(var(--avatar-count), var(--column-size));
@@ -10777,7 +10777,7 @@ html.video-modal-active .video-modal {
   .avatar {
     width: var(--avatar-size);
     border-radius: 100vw;
-    border: 5px solid var(--color-eggshell-darker);
+    border: 8px solid var(--color-eggshell-darker);
     box-shadow: 0.25rem 0.25rem 0.5rem hsl(0 0% 0% / 0.2);
   
     transition: scale 500ms;
@@ -10799,8 +10799,8 @@ html.video-modal-active .video-modal {
     max-width: 12000px;
     margin: 0 auto;
     position: relative;
-    min-width: 600px; /* Adjust this value based on your design needs */
-    min-height: 400px; /* This should be adjusted based on the aspect ratio of your images */
+    min-width: 600px; 
+    min-height: 400px; 
 }
 
 .bubble-image {
@@ -10811,7 +10811,7 @@ html.video-modal-active .video-modal {
     height: 100%;
     background-size: contain;
     background-position: center;
-    background-repeat: no-repeat; /* Ensures the image doesn't tile */
+    background-repeat: no-repeat; 
     transition: opacity 50ms ease-in-out;
 }
 
@@ -10840,11 +10840,10 @@ html.video-modal-active .video-modal {
 
 .card {
     width: 80px;
-    border-radius: .75rem;
+    border-radius: .25rem;
     background-size: cover;
     cursor: pointer;
     overflow: hidden;
-    border-radius: 2rem;
     margin: 0 10px;
     display: flex;
     align-items: flex-end;
