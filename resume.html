@@ -38,8 +38,6 @@
     <div class="site" style="width: 100%; max-width: 1600px;">
 
 
-
-
         <main class="main">
 
             <div class="uo-text uo-space--transition-bottom">
@@ -225,6 +223,8 @@
                 </section>
             </div>
 
+
+
         </main>
 
         <footer class="footer">
@@ -244,7 +244,7 @@
                         <dd><strong>Posted.</strong> originally, <a
                                 href="https://understairs.ltd/curriculum-vitae/">here</a></dd>
                     </dl>
-                    <div class="footer__hey">
+                    <div class="footer__hey-2">
                         <a href="/index.html">Back</a>
                     </div>
                 </div>
@@ -271,3 +271,20 @@
 </body>
 
 </html>
+
+<script>
+    // Listen for scroll events on the window
+    window.addEventListener('scroll', function () {
+        // Get the element
+        var footerHey = document.querySelector('.footer__hey');
+
+        // Check if the page has been scrolled down 600 pixels or more
+        if (window.scrollY > 600) {
+            // Make the element visible
+            footerHey.style.display = 'block';
+        } else {
+            // Hide the element
+            footerHey.style.display = 'none';
+        }
+    });
+</script>
