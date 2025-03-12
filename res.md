@@ -4,13 +4,34 @@ I am a passionate and creative Service and Interaction Designer with a proven tr
 
 ### Work Experience:
 
-#### Understairs.Ltd: February 2023 - Present
+#### DBT via Hays : August 2024 - Present
 
-#### Lead Service and Interaction Designer / CEO
+#### Interaction Designer (Department for Trade contract)
 
-I founded and currently lead Understairs.Ltd, a limited company aimed at empowering individuals and organizations to design effectively for government departments. Our range of resources and services includes courses, one-to-one coaching, and group training to help clients develop design projects that adhere to the highest standards of usability, accessibility, and effectiveness. At Understairs.Ltd, we utilize GDS Standards, Design System, Design critiques, Design histories, and a prototyping kit to provide clients with the necessary tools for success.
+Working as part of the interaction design team to create user-centred solutions, participating in workshops, design critiques and pair programming sessions. Contribute to the development of custom components and ensure all work meets WCAG 2.1 AA accessibility standards. Collaborate with the wider UCD community to maintain high design standards and support continuous improvement initiatives.
 
-#### SmartSourcing: September 2022 - Present
+#### Allen Lane : January 2024 - August 2024
+
+#### Lead Interaction Designer (Home Office contract)
+
+Managed design delivery across multiple Home Office services, leading a team of 12 designers and researchers. Key achievements include:
+
+Established design quality standards and review processes
+Developed custom components meeting WCAG 2.1 AA standards
+Created a design mentorship program to support junior team members
+Led the implementation of design system improvements
+Facilitated knowledge-sharing sessions and design workshops
+CCS via Jumar: February 2023 - January 2024
+Senior Interaction Designer (CCS contract)
+As a Senior Interaction Designer, I led the design and delivery of complex digital services within CCS, working closely with multidisciplinary teams to create user-centred solutions. I conducted extensive user research, facilitated design workshops, and developed high-fidelity prototypes using the GDS Design System. I championed accessibility standards and contributed to the continuous improvement of design practices through regular design critiques and detailed design histories. My work involved close collaboration with product owners, developers, and stakeholders to ensure services met both user needs and business objectives while adhering to GDS standards.
+
+#### CCS via Jumar: February 2023 - January 2024
+
+#### Senior Interaction Designer (CCS contract)
+
+As a Senior Interaction Designer, I led the design and delivery of complex digital services within CCS, working closely with multidisciplinary teams to create user-centred solutions. I conducted extensive user research, facilitated design workshops, and developed high-fidelity prototypes using the GDS Design System. I championed accessibility standards and contributed to the continuous improvement of design practices through regular design critiques and detailed design histories. My work involved close collaboration with product owners, developers, and stakeholders to ensure services met both user needs and business objectives while adhering to GDS standards.
+
+#### SmartSourcing: September 2022 - February 2023
 
 #### Senior Service and Interaction Designer (UK Parliament Contract)
 
