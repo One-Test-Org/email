@@ -10987,4 +10987,14 @@ input:checked + label .description {
     }
 }
 
+.nav-menu.nav-menu__accounts::after {
+    content: none !important;
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    pointer-events: none !important;
+  }
+
 /*# sourceMappingURL=/assets/source-maps/style.scss.map */
