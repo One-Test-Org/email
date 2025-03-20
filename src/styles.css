@@ -10664,7 +10664,11 @@ html.video-modal-active .video-modal {
 }
 
 .text-highlight--dark {
-    background: linear-gradient(90deg, rgba(var(--rgb-purple), 0) 0, rgba(var(--rgb-purple), 0.75) 5%, rgba(var(--rgb-purple), 0.25) 95%, rgba(var(--rgb-purple), 0) 100%)
+    background: linear-gradient(90deg, rgba(var(--rgb-red), 0) 0, rgba(var(--rgb-red), 0.75) 5%, rgba(var(--rgb-red), 0.25) 95%, rgba(var(--rgb-red), 0) 100%)
+}
+
+.text-highlight--blue {
+    background: linear-gradient(90deg, rgba(var(--rgb-blue), 0) 0, rgba(var(--rgb-blue), 0.75) 5%, rgba(var(--rgb-blue), 0.25) 95%, rgba(var(--rgb-blue), 0) 100%)
 }
 
 .text-new:before,.text-soon:before {
@@ -10920,7 +10924,7 @@ input:checked + label .description {
     background-image: url('/assets/img/life.png');
 }
 .card[for="c4"] {
-    background-image: url('/assets/img/pastures.png');
+    background-image: url('/assets/img/Syros5.jpg');
 }
 
 .calendar-image {
